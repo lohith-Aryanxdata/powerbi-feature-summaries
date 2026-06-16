@@ -1,15 +1,35 @@
-
 # Power BI Feature Summaries
 
-This repository automatically syncs selected feature summary sections from the Awesome-Power-BI repository.
+A curated repository containing automatically synchronized Power BI feature summaries.
 
-Source:
+## Last Updated
+
+2026-06-16 07:10 UTC
+
+## Source Repository
+
 https://github.com/NajiElKotob/Awesome-Power-BI
+
+All content is sourced from the Awesome-Power-BI repository and synchronized automatically.
 
 ---
 
+## Contents
 
-## Power BI Desktop Feature Summary
+### Desktop Feature Summary
+
+📂 [Desktop Feature Summary](Desktop/desktop_feature_summary.md)
+
+### Service & Mobile Feature Summary
+
+📂 [Service & Mobile Feature Summary](Service-Mobile/service_mobile_feature_summary.md)
+
+---
+
+## Preview
+
+### Power BI Desktop Feature Summary
+
 ### Core Visuals Vision Board ⭐
 * [Introducing the Core Visuals Vision Board](https://powerbi.microsoft.com/en-us/blog/introducing-the-core-visuals-vision-board/)
 * [Core Visuals Vision Board (Power BI Dashboard)](https://msit.powerbi.com/view?r=eyJrIjoiYmQ5ODYzYmQtOWU5MS00M2VmLWE5MmMtNjE3YzY2ZjRjZTY2IiwidCI6IjcyZjk4OGJmLTg2ZjEtNDFhZi05MWFiLTJkN2NkMDExZGI0NyIsImMiOjV9)
@@ -28,48 +48,12 @@ https://github.com/NajiElKotob/Awesome-Power-BI
 ### 2023 
 * [Power BI Desktop February 2023 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-february-2023-feature-summary/) [📺](https://www.youtube.com/watch?v=7-0Pr0U2HIA)
 * [Power BI Desktop December 2023 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-december-2023-feature-summary/) [📺](https://www.youtube.com/watch?v=PycL2_T0DxM)
-* [Power BI Desktop November 2023 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-november-2023-feature-summary/)
-* [Power BI Desktop October 2023 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-october-2023-feature-summary/)
-* [Power BI Desktop September 2023 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-september-2023-feature-summary/)
-* [Power BI Desktop August 2023 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-august-2023-feature-summary/)
-* [Power BI Desktop July 2023 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-july-2023-feature-summary/)
-* [Power BI Desktop June 2023 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-june-2023-feature-summary/)
-* [Power BI Desktop May 2023 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-may-2023-feature-summary/)
-* [Power BI Desktop April 2023 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-april-2023-feature-summary/)
-* [Power BI Desktop March 2023 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-march-2023-feature-summary/)
-* [Power BI Desktop February 2023 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-february-2023-feature-summary/)
+* [Power BI Desktop November 2023 Feature Summary](https://powerbi.microsoft.com/en-
 
-### 2022
-* [Power BI Desktop December 2022 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-december-2022-feature-summary/)
-* [Power BI Desktop November 2022 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-november-2022-feature-summary/)
-* [Power BI Desktop October 2022 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-october-2022-feature-summary/)
-* [Power BI Desktop September 2022 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-september-2022-feature-summary/)
-* [Power BI Desktop August 2022 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-august-2022-feature-summary/)
-* [Power BI Desktop July 2022 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-july-2022-feature-summary/)
-* [Power BI Desktop June 2022 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-june-2022-feature-summary/)
-* [Power BI Desktop May 2022 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-may-2022-feature-summary/)
-* [Power BI Desktop April 2022 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-april-2022-feature-summary/)
-* [Power BI Desktop March 2022 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-march-2022-feature-summary/)
-* [Power BI Desktop February 2022 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-february-2022-feature-summary/)
+---
 
-### 2021
-* [Power BI Desktop December 2021 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-december-2021-feature-summary/)
-* [Power BI Desktop November 2021 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-november-2021-feature-summary/)
-* [Power BI Desktop October 2021 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-october-2021-feature-summary/)
-* [Power BI Desktop September 2021 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-september-2021-feature-summary/)
-* [Power BI Desktop August 2021 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-august-2021-feature-summary/)
-* [Power BI Desktop July 2021 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-july-2021-feature-summary/)
-* [Power BI Desktop June 2021 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-june-2021-feature-summary/)
-* [Power BI Desktop May 2021 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-may-2021-feature-summary/)
-* [Power BI Desktop April 2021 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-april-2021-feature-summary/)
-* [Power BI Desktop March 2021 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-march-2021-feature-summary/)
-* [Power BI Desktop February 2021 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-february-2021-feature-summary/)
+### Power BI Service and Mobile Feature Summary
 
-
-### Previous years
-* [Power BI Desktop Feature Summary History](https://github.com/NajiElKotob/Awesome-Power-BI/blob/master/Power%20BI%20Desktop%20Feature%20Summary.md)
-
-## Power BI Service and Mobile Feature Summary
 ### 2020
 * [Power BI Service and Mobile May and June 2020 feature summary](https://powerbi.microsoft.com/en-us/blog/power-bi-service-and-mobile-may-and-june-2020-feature-summary/)
 * [Power BI Service and Mobile _February and March 2020_ feature summary](https://powerbi.microsoft.com/en-us/blog/power-bi-service-and-mobile-february-and-march-2020-feature-summary)
