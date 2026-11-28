@@ -4,7 +4,7 @@ A curated repository containing automatically synchronized Power BI feature summ
 
 ## Last Updated
 
-2026-11-27 05:58 UTC
+2026-11-28 05:40 UTC
 
 ## Source Repository
 
